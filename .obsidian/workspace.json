@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "815650dea50c6d58",
+    "type": "split",
+    "children": [
+      {
+        "id": "274936a2b68366b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dedeed6a20f3191",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c59c374b07992737",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dinâmica.canvas",
+                "viewState": {
+                  "x": -495,
+                  "y": -210,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dinâmica"
+            }
+          },
+          {
+            "id": "a6a510e91c103b7f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Moisés _3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Moisés _3"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58d360f018a1a4c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0475bcad49c5b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9b07efb9aeedf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "504782660342bf44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35fc933dd1001e3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30cad5cd5ced2617",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d4d9ac82f7f77a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f84aac953c72bf6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dinâmica.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "683d52e10a85cf5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dinâmica.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a427352b13adbcd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a5fbb8fe7e86df37",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "23149bb227c3beae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dinâmica.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c59c374b07992737",
+  "lastOpenFiles": [
+    "README.md",
+    "Moisés _3.pdf",
+    "Física clássica Vol.3 ELETRICIDADE.pdf",
+    "Dinâmica.canvas",
+    "Moizés_2 (1).pdf",
+    "Stewart_1_ptbr.pdf",
+    "Aula14.pdf",
+    "Untitled.md",
+    "Autovalores e autovetores.md",
+    "Welcome.md"
+  ]
+}
