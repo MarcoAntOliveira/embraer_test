@@ -21,17 +21,12 @@
             "id": "c59c374b07992737",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Dinâmica.canvas",
-                "viewState": {
-                  "x": -495,
-                  "y": -210,
-                  "zoom": 0
-                }
+                "file": "Moisés _3.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dinâmica"
+              "icon": "lucide-file-text",
+              "title": "Moisés _3"
             }
           },
           {
@@ -216,10 +211,10 @@
   },
   "active": "c59c374b07992737",
   "lastOpenFiles": [
+    "Dinâmica.canvas",
     "README.md",
     "Moisés _3.pdf",
     "Física clássica Vol.3 ELETRICIDADE.pdf",
-    "Dinâmica.canvas",
     "Moizés_2 (1).pdf",
     "Stewart_1_ptbr.pdf",
     "Aula14.pdf",
